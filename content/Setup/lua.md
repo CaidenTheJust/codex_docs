@@ -9,4 +9,4 @@ weight: 3
 
 # Lua
 
-Visit the [Core](https://github.com/corp-por/core) and [Stones](https://github.com/corp-por/stones) repos, download and extract the repos into the *core* and *stones* folders your Config.xml points to.
+Visit the [Core](https://github.com/corp-por/core) and [Stones](https://github.com/corp-por/stones) repos, download and extract the repos into the *core* and *stones* folders your Config.xml points to. Test
